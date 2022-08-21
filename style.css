@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    background-color: #003933;
+    color: white;
+    border-radius: 0;
+}
+.heading:hover{
+    background-color: white;
+    color:#003933;
+    border-radius: 0;
+}
+.points{
+    background-color: white;
+    color:#003933;
+}
+.points:hover{
+    background-color: #003933;
+    color: white;
+}
+#con{
+    width: 400px;
+    height: 500px;
+    margin-right: 500px;
+}

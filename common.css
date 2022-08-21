@@ -1,0 +1,14 @@
+body{
+background-size: cover;
+}
+canvas{
+    box-shadow: 5px 5px 5px grey;
+}
+.points{
+    background-color: white;
+    color:#003933;
+}
+.points:hover{
+    background-color: #003933;
+    color: white;
+}
